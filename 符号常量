@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+#define PRICE 30
+int main()
+{
+int num ,toal;
+num=10;
+total=num*PRICEC;
+cout<<"total="<<tptal<<endl;
+return 0;
+}
